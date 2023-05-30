@@ -3,3 +3,5 @@ class Hello:
         self.str = str
 
 
+class Goodbae(Hello):
+    pass
