@@ -3,7 +3,3 @@ class Hello:
         self.str = str
 
 
-
-
-
-
